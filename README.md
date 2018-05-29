@@ -8,9 +8,7 @@
 
 1. [安裝篇](/chapter1.md)
 2. [使用篇](/she-ding-pian.md)
-3. XAMPP 架站好幫手
-
-
+3. [XAMPP 架站好幫手](/xampp-r.md)
 
 因為不確定這樣使用 DanceScore 會不會有侵權的行為。XP
 
