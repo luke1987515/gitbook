@@ -6,14 +6,19 @@
 
 如果沒有請跳轉到 [3. XAMPP 架站好幫手](/xampp-r.md)
 
-* 確認 XAMPP 環境都為 綠色
-* \(圖片\)
+1. 確認 XAMPP 環境都為 綠色
+   \(補圖片\)
+2. 複製 [dancescore.zip](http://dancesportlive.net/download/dancescore.zip) 到 C:\
 
-* 複製 [dancescore.zip](http://dancesportlive.net/download/dancescore.zip) 到 C:\
+   \(補圖片\)
 
-* \(圖片\)
+3. 解壓縮 [dancescore.zip](http://dancesportlive.net/download/dancescore.zip)
 
-* 解壓縮 [dancescore.zip](http://dancesportlive.net/download/dancescore.zip)
-* 
+   \(補圖片\)
+
+4. 建立 XAMPP 與 dancescore 的關係
+
+   \(補圖片\)
+
 
 
