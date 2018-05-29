@@ -4,13 +4,16 @@
 
 那麼廢話不多說，來安裝吧。
 
-1. 下載 XAMPP 安裝檔。[https://www.apachefriends.org/zh\_tw/index.html](https://www.apachefriends.org/zh_tw/index.html)
+1. 下載 XAMPP 安裝檔。[https://www.apachefriends.org/zh\_tw/index.html](https://www.apachefriends.org/zh_tw/index.html)  
+   ![](/assets/download_XAMPP.png)
 
-![](/assets/download_XAMPP.png)
+2. 執行\(xampp-win32-7.2.5-0-VC15-installer.exe\)，一路按 下一步。
 
+   \(補圖片\)
 
+3. 開啟 XAMPP 設定頁面。
 
-
+   \(補圖片\)
 
 
 
