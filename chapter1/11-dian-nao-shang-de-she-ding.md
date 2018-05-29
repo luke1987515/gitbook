@@ -8,6 +8,7 @@
 
 1. 確認 XAMPP 環境都為 綠色
    \(補圖片\)
+
 2. 複製 [dancescore.zip](http://dancesportlive.net/download/dancescore.zip) 到 C:\
 
    \(補圖片\)
