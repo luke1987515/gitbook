@@ -15,7 +15,13 @@
 
 4. 開啟 XAMPP 設定頁面。
 
-   \(補圖片\)
+   \(補圖片\)![](/assets/config_XAMPP_01.png)![](/assets/config_XAMPP_02.png)![](/assets/config_XAMPP_.3.png)![](/assets/config_XAMPP_04.png)
+
+5. ![](/assets/config_XAMPP_04.png)
+
+6. ![](/assets/config_XAMPP_04.png)
+
+![](/assets/config_XAMPP_.5.png)
 
 
 
