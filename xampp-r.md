@@ -13,15 +13,68 @@
 
 3. 重開機
 
-4. 開啟 XAMPP 設定頁面。
+4. 開啟 XAMPP 設定頁面。![](/assets/config_XAMPP_01.png)
 
-   \(補圖片\)![](/assets/config_XAMPP_01.png)![](/assets/config_XAMPP_02.png)![](/assets/config_XAMPP_.3.png)![](/assets/config_XAMPP_04.png)
 
-5. ![](/assets/config_XAMPP_04.png)
 
-6. ![](/assets/config_XAMPP_04.png)
 
+
+
+
+![](/assets/config_XAMPP_02.png)
+
+
+
+
+
+
+
+![](/assets/config_XAMPP_.3.png)
+
+
+
+
+
+![](/assets/config_XAMPP_04.png)
+
+
+
+1. 
 ![](/assets/config_XAMPP_.5.png)
+
+![](/assets/config_XAMPP_07.png)
+
+
+
+![](/assets/config_XAMPP_08.png)
+
+
+
+![](/assets/conifg_XAMPP_09.png)
+
+
+
+![](/assets/config_XAMPP_10.png)
+
+
+
+![](/assets/config_XAMPP_11.png)
+
+
+
+![](/assets/config_XAMPP_12.png)
+
+開啟 Host PC 得到 IP
+
+\( 例如 172.20.10.5\)
+
+![](/assets/config_XAMPP_13.png)
+
+
+
+看到下面畫面，XAMPP 就安裝完成了。
+
+![](/assets/config_XAMPP_14.png)
 
 
 
