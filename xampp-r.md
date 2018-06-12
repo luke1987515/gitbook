@@ -9,9 +9,11 @@
 
 2. 執行\(xampp-win32-7.2.5-0-VC15-installer.exe\)，一路按 下一步。
 
-   \(補圖片\)
+   ![](/assets/install_XAMPP_01.png)![](/assets/install_XAMPP_02.png)![](/assets/install_XAMPP_03.png)![](/assets/install_XAMPP_04.png)![](/assets/install_XAMPP_05.png)![](/assets/install_XAMPP_06.png)![](/assets/install_XAMPP_07.png)![](/assets/install_XAMPP_08.png)![](/assets/install_XAMPP_09.png)![](/assets/install_XAMPP_10.png)![](/assets/install_XAMPP_11.png)![](/assets/install_XAMPP_12.png)![](/assets/install_XAMPP_13.png)![](/assets/install_XAMPP_14.png)
 
-3. 開啟 XAMPP 設定頁面。
+3. 重開機
+
+4. 開啟 XAMPP 設定頁面。
 
    \(補圖片\)
 
