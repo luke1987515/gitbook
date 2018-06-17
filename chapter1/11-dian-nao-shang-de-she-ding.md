@@ -7,7 +7,7 @@
 如果沒有請跳轉到 [3. XAMPP 架站好幫手](/xampp-r.md)
 
 1. 確認 XAMPP 環境都為 綠色  
-   \(補圖片\)
+   ![](/assets/config_XAMPP_12.png)
 
 2. 複製 [dancescore.zip](http://dancesportlive.net/download/dancescore.zip) 到 C:\
 
@@ -23,7 +23,7 @@
 
 5. 安裝  Microsoft Access 2016 Runtime
 
-6. https://www.microsoft.com/zh-tw/download/details.aspx?id=50040
+6. [https://www.microsoft.com/zh-tw/download/details.aspx?id=50040](https://www.microsoft.com/zh-tw/download/details.aspx?id=50040)
 
 
 
